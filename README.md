@@ -1,5 +1,5 @@
--Coder
--Designer
+-Coder  \n
+-Designer \n
 -Industry Professional
 
 <!---
