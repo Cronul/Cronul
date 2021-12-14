@@ -1,6 +1,6 @@
-Coder
-Designer
-Industry Professional
+-Coder
+-Designer
+-Industry Professional
 
 <!---
 Cronul/Cronul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
